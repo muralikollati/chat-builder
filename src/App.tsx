@@ -1,6 +1,4 @@
-import { useEffect, useState } from 'react'
 import './App.css'
-import AppBuilder, { ToolbarComponents } from '@appbuilder/react'
 import AppBuilderReactSdk, {
   ToolbarPreset,
   ToolbarItem,
